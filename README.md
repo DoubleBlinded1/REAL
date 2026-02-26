@@ -230,8 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[Documentation](docs/) • [Examples](examples/) 
 
-Made with ❤️ for the autonomous systems research community
+Made with ❤️ for the Requirements Engineering research community
 
 </div>
